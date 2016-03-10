@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeetApp</string>
+    <string name="title_activity_main_page">Meet-App</string>
+    <string name="addressGoButton">Go</string>
+</resources>
